@@ -5,7 +5,7 @@ A Python program that automatically marks references in a Word document.
 Due to the complexity of Word documents, **please save a backup copy before running the script!!!!!!!!!**
 
 ## Installation
- pip install pywin32 python-docx
+ pip install pywin32 python-docx  #(only in windows)
 
 ## Usage
 ```shell
