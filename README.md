@@ -1,5 +1,6 @@
 # auto_ref_word
 A Python program that automatically marks references in a Word document.
+word 文档 自动 标注 参考文献 python 脚本， 插入交叉引用，并保持超链接。
 
 ## worning
 Due to the complexity of Word documents, **please save a backup copy before running the script!!!!!!!!!**
